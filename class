@@ -1,6 +1,6 @@
 class Country{
 void comingSoon(){
-System.out,println("coming soon");
+System.out.println("coming soon");
 }
 Country india=new Country();
 Country bhutan=new Country();
